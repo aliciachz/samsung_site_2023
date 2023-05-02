@@ -1,0 +1,13 @@
+@import url(reset.css);
+/* main.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+/* font-family:'Noto Sans KR' sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+/* font-family:'Noto Sans'sans-serif; */
+
+/* common */
+body{font-size: 14px;font-family: 'Noto sans','Noto Sans KR',Helvetica,sans-serif;color: #333;}
+a{text-decoration: none;color: #333;}
+a:hover{text-decoration: none;color: #333;}
+#wrap{width: 100%;} 
